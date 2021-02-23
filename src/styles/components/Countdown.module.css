@@ -19,3 +19,20 @@
   font-size: 8.5rem;
   text-align: center;
 } 
+
+.countdownConteiner > div span {
+  flex: 1;
+}
+
+.countdownConteiner > div span:first-child{
+  border-right: 1px solid #f0f1f3;
+}
+
+.countdownConteiner > div span:last-child{
+  border-right: 1px solid #f0f1f3;
+}
+
+.countdownConteiner > span {
+  font-size: 6.25rem;
+  margin: 0 0.5rem;
+}
