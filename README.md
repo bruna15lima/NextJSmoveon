@@ -11,6 +11,15 @@ Sou um FullStack Developer :computer:
 <br/>[x]Criar Componente:CompletedChallenges
 <br/>[x]Criar Componente:Countdown
 <br/>[x]Criar hook de countdown 
+
+##Desafios
+
+<br/>[x]Migrar projeto para Next.js
+<br/>[] Terminar layout do botão
+<br/>[x]Finalizar countdown
+<br/>[x]Componente: ChallengeBox
+<br/>[]Rergas de negócio
+
 <br/>
 <br/>
  :rocket:  &nbsp; Estou trabalhando como freelancer
