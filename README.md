@@ -1,10 +1,19 @@
-# Bruna Calheiro
+#:octocat: Bruna Calheiros
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
+
+##Objetivos do projeto:
+<br/>[x]Migrar projeto para Next.js
+<br/>[x]Criar Componente:Perfil
+<br/>[x]Criar Componente:CompletedChallenges
+<br/>[x]Criar Componente:Countdown
+<br/>[x]Criar hook de countdown 
+<br/>
+<br/>
+ :rocket:  &nbsp; Estou trabalhando como freelancer
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
