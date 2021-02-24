@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-import { clearTimeout } from 'timers';
 import styles from '../styles/components/Countdown.module.css';
 
 let countdownTimeout: NodeJS.Timeout;
