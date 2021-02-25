@@ -50,7 +50,7 @@ export function ChallengesProvider({ children }:ChallengesProviderProps){
     setActiveChallenge(null);
   }
 
-  function completeChallenge(challenge){
+  function completeChallenge(){
      if (!activeChallenge) {
        return;
      }
