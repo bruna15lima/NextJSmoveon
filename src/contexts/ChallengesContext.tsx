@@ -70,8 +70,9 @@ export function ChallengesProvider({ children }:ChallengesProviderProps){
   
   }
 
-  return(
-    <ChallengesContext.Provider 
+  return( 
+    
+    <ChallengesContext.Provider
     value={ { 
       level, 
       currentExperience, 
@@ -86,6 +87,7 @@ export function ChallengesProvider({ children }:ChallengesProviderProps){
     >
       { children }
     </ChallengesContext.Provider>
+ 
   );
 }
 
