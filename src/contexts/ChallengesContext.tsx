@@ -23,7 +23,7 @@ interface ChallengesProviderProps {
   children: ReactNode;    
 }
 
-export const ChallengesContext = createContext({} as ChallengesContextData );   
+export const ChallengesContext = createContext({} as ChallengesContextData);   
 
 export function ChallengesProvider({ children }:ChallengesProviderProps){
   const [level, setLevet] = useState(1);

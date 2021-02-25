@@ -26,8 +26,7 @@ export function Countdown() {
   function resetCountdown(){
     clearTimeout(countdownTimeout);
     setIsActive(false);
-    setTime(25 * 60);
-    startNewChallenge();
+    setTime(25 * 60);    
   }
 
 
@@ -39,7 +38,7 @@ export function Countdown() {
   } else if (isActive && time === 0) {
     setHasFinished(true);
     setIsActive(false);
-    
+    startNewChallenge();
   }
   }, [isActive, time])
 
