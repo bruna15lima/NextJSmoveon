@@ -20,6 +20,7 @@ interface ChallengesContextData {
       startNewChallenge: () => void;
       resetChallenge: () => void;
       completeChallenge: () => void;
+      closeLevelUpModal: () => void;
 }
 
 interface ChallengesProviderProps {
@@ -60,6 +61,10 @@ export function ChallengesProvider({
   function levelUp(){
     setLevet(level+1);
     setIsLevelModalOpen(true)
+  }
+
+  function closeLevelUpModal() {
+    setIsLevelModalOpen(false);
   }
 
   function startNewChallenge(){
@@ -114,6 +119,7 @@ export function ChallengesProvider({
       activeChallenge,
       resetChallenge,
       completeChallenge,
+      closeLevelUpModal,
       }}
     >
       { children }
