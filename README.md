@@ -3,12 +3,12 @@
 📚 Tecnologias
 Esse projeto utilizou as seguintes tecnologias:
 
-React
-Next.js
-Vercel
-Typescript
-js-cookie
-Yarn
+ <br/>React
+ <br/>Next.js
+ <br/>Vercel
+ <br/>Typescript
+ <br/>js-cookie
+ <br/>Yarn
 
 📌 Projeto
 O move.on é uma aplicação que te ajuda a parar por alguns minutos e realizar atividades de relaxamento e alongamento. Perfeito para quem passa horas e horas na frente do computador.
@@ -22,15 +22,15 @@ O move.it está implantado no site da Vercel e você pode acessá-los através d
 ⌛️ Próximos passos
 Os próximos passos para evoluir com essa aplicação é
 
-criar uma versão mobile;
-aplicar um tema dark;
-criar um fluxo de autenticação por usuário;
-Quer me ajudar? Ótimo! 🤩
+ <br/>criar uma versão mobile;
+ <br/>aplicar um tema dark;
+ <br/>criar um fluxo de autenticação por usuário;
+ <br/>Quer me ajudar? Great! :jack_o_lantern:🤩
 
 Baixe o projeto na sua máquina e manda bala! 🚀
 
 🚀 Execução
-Para poder executar a aplicação localmente, certifique-se de que você tem o Node.js v15.9.0+ instalado na sua máquina e em sequencia faça uma cópia do projeto em seu ambiente local
+<br/>Para poder executar a aplicação localmente, certifique-se de que você tem o Node.js v15.9.0+ instalado na sua máquina e em sequencia faça uma cópia do projeto em seu ambiente local
 
 $ git clone <https://github.com/tfpmonteiro/nlw4_movit.git>
 Acesse a pasta do projeto, instale as depeências e inicie o servidor através dos comandos listados abaixo. Neste exemplo, estou utilizando o gerenciador de pacotes Yarn mas você pode utilizar outro se preferir.
