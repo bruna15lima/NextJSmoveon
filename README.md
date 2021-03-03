@@ -5,7 +5,7 @@ de alongar o braço, trabalhar a sua visão, e as vezes você não percebe? isso
 
 Você tem dificuldade em terminar as suas tarefas no prazo? A lista de tarefas acumuladas está tão grande que você tem a sensação de que simplesmente nunca vai conseguir resolver tudo? A chamada técnica Pomodoro pode te ajudar a sair desse ciclo vicioso e aumentar sua produtividade. Trata-se de uma ferramenta simples e eficaz para que você gerencie o seu tempo.
 
---------------------
+---
  
 qual é a idéia do move.on?
 
@@ -21,7 +21,7 @@ mantendo-se 100% focado. Ao perceber os resultados satisfatórios, divulgou sua 
 Os objetivos da técnica Pomodoro estão ligados à diminuição da ansiedade e ao aumento do foco e concentração nas tarefas, 
 evitando tempo desperdiçado e distrações.
 
-------------------------
+---
 
 📌 Projeto
 O move.on é uma aplicação que te ajuda a parar por alguns minutos e realizar atividades de relaxamento e alongamento. Perfeito para quem passa horas e horas na frente do computador. E também vai ajudar a você ter 100% de foco no que você está produzindo, Para isso, ele utiliza um timer de 25min para organizar cada tarefa!
@@ -36,13 +36,15 @@ Esse projeto utilizou as seguintes tecnologias:
  <br/>js-cookie
  <br/>Yarn
 
--------------------------
+----
 
 🔍 Layout
 O layout do projeto esta disponibilizado pela rocketseat neste link, mas é preciso ter uma conta no figma para poder acessá-lo.
 
 💻 Deploy
-O move.on está implantado no site da Vercel e você pode acessá-los através deste link .
+O move.on está implantado no site da Vercel e você pode acessá-los através deste link  ->  next-js-move-on.vercel.app/ <--
+
+---------
 
 ⌛️ Próximos passos
 Os próximos passos para evoluir com essa aplicação é
