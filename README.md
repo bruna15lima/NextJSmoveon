@@ -32,7 +32,7 @@ Baixe o projeto na sua máquina e manda bala! 🚀
 🚀 Execução
 <br/>Para poder executar a aplicação localmente, certifique-se de que você tem o Node.js v15.9.0+ instalado na sua máquina e em sequencia faça uma cópia do projeto em seu ambiente local
 
-$ git clone <https://github.com/tfpmonteiro/nlw4_movit.git>
+$ git clone <https://github.com/bruna15lima/NextJSmoveon.git>
 Acesse a pasta do projeto, instale as depeências e inicie o servidor através dos comandos listados abaixo. Neste exemplo, estou utilizando o gerenciador de pacotes Yarn mas você pode utilizar outro se preferir.
 
 $ cd movit-next
